@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import LilApp from './lil-app.jsx';
+require('./style.scss');
 
 var App = React.createClass({
 	render: function(){
