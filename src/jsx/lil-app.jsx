@@ -8,6 +8,7 @@ const LilApp = React.createClass({
 				<h2>Bye</h2>
 				<h3>Later</h3>
 				<h4>Hey</h4>
+				<h5>Wait</h5>
 			</div>	
 		)
 	}
